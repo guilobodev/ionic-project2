@@ -1,0 +1,39 @@
+.logo {
+  width: 185px;
+  height: 185px;
+}
+.img {
+  text-align: center;
+}
+.welcome {
+  color: white;
+  font-size: 27px;
+}
+.email {
+  color: white;
+  font-size: 20px;
+}
+.senha {
+  color: white;
+  font-size: 20px;
+}
+.botao {
+  text-align: center;
+}
+.entrar {
+  font-size: 19px;
+}
+.esqueceu {
+  color: white;
+  text-align: center;
+  font-size: 12px;
+}
+.espacamento {
+  margin-top: 120px;
+}
+.espacamento2 {
+  margin-top: 30px;
+}
+.espacamento3 {
+  margin-top: 50px;
+}
